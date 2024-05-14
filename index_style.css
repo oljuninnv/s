@@ -9,3 +9,10 @@ h1 {
        font-style: italic;
    }
    
+td{
+	border: 1px solid #dddddd
+	text-align: right;
+	padding: 7px;
+	background-color: grey;
+}
+
