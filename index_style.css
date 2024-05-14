@@ -9,16 +9,3 @@ h1 {
        font-style: italic;
    }
    
-td{
-	border: 1px solid #dddddd
-	text-align: left;
-	padding: 7px;
-	background-color: grey;
-}
-
-td {
-	border: 1px solid #dddddd;
-	text-align: left;
-	padding: 7px;
-	background-color: lightgreen;
-}
