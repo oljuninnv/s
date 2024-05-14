@@ -2,3 +2,7 @@ h1 {
        color: blue;
    }
    
+th{
+	background-color:lightblue;
+	font-weight:bold;
+}
