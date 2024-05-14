@@ -10,3 +10,9 @@ h1 {
    }
    
 
+td {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 7px;
+	background-color: lightgreen;
+}
